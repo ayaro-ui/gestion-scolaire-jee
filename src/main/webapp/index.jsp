@@ -568,7 +568,7 @@
         <div class="navbar-content">
             <div class="logo">
                 <div class="logo-icon">E</div>
-                EduManager
+                Gestion scolaire
             </div>
             <div class="nav-links" id="navLinks">
                 <a href="<%= request.getContextPath() %>/index.jsp">Accueil</a>
